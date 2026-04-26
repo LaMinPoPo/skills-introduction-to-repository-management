@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LaMinPoPo
+/src/backend/database.py      @LaMinPoPo
+/src/backend/routers/auth.py  @LaMinPoPo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LaMinPoPo
